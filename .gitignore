@@ -1,0 +1,13 @@
+#assumptions we've made when the bot is running. 
+pump_config.json 
+
+#actual python stuff 
+__pycache__/
+*.pyc
+.venv/
+
+#darkest secrets 
+.env
+
+#macOS
+.DS_Store
